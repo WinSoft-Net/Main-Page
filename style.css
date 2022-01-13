@@ -78,3 +78,29 @@
     top: 200px;
     left: 499px;
 }
+#logo2{
+    position: absolute;
+    top: 1450px;
+    left: 5px;
+}
+#about_fw{
+    color: #1350d3;
+    position: absolute;
+    font-size: 20px;
+    top: 1470px;
+    left: 90px;
+}
+#downloadfw{
+    background-color: #4b83b8f6;
+    color: #ffffff;
+    padding: 11px;
+    margin: 5px;
+    opacity: 0.9;  
+    position: absolute;
+    top: 1500px;
+    left: 85px;
+}
+#screenfw{
+    position: absolute;
+    top: 1570px;
+}
