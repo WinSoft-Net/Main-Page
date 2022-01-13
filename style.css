@@ -4,53 +4,67 @@
     color: #ffffff;
     padding: 11px;
     margin: 5px;
+    opacity: 0.9;  
+    position: absolute;
+    top: 200px;
+    left: 85px;
+}
+#downloadportable{
+    background-color: #4b83b8f6;
+    color: #ffffff;
+    padding: 11px;
+    margin: 5px;
     opacity: 0.9;
-    width: 200px;
-    text-align: center;
-    
-    position: relative;
-    top: 150px;
-    left: 75px;
+    position: absolute;
+    top: 200px;
+    left: 260px;
     }
 #site-name{
     background-color:#489cebf6;
-    height: 60px;
-    font-size: 50px;
+    height: 55px;
+    font-size: 45px;
 }
 #logo1{
-    position: relative;
-    top: 30px;
+    position: absolute;
+    top: 120px;
     left: 5px;
 }
 #projects{
-    position: relative;
-    top: -100px;
+    position: absolute;
+    top: 70px;
     font-size: 29px;
     color: #1350d3;
 }
+
 #about_tp{
     color: #1350d3;
-    position: relative;
+    position: absolute;
     font-size: 20px;
-    left: 80px;
-    top: -50px;
+    top: 115px;
+    left: 90px;
 }
 #rus{
     font-size: 20px;
-    position: relative;
-    top: -40px;
-    left: 20px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
 }
+
 #old_ver{
     background-color: #4b83b8f6;
     color: #ffffff;
     padding: 11px;
     margin: 5px;
     opacity: 0.9;
-    width: 200px;
-    text-align: center;
-    
-    position: relative;
-    top: 131px;
-    left: 255px;
-    }
+    position: absolute;
+    top: 200px;
+    left: 585px;
+}
+#screenru{
+    position: absolute;
+    top: 270px;
+}
+#screenen{
+    position: absolute;
+    top: 830px;
+}
